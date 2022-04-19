@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e72fec5b0e7151448298f8180294501, type: 3}
+  m_Name: Puzzle1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 0
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - S
+    - E
+    - L
+    - E
+    - R
+    - O
+    - N
+    - I
+    - S
+    - A
+  - Size: 10
+    Row:
+    - E
+    - M
+    - I
+    - N
+    - E
+    - L
+    - B
+    - Y
+    - T
+    - V
+  - Size: 10
+    Row:
+    - L
+    - G
+    - Q
+    - Y
+    - J
+    - L
+    - Z
+    - H
+    - O
+    - A
+  - Size: 10
+    Row:
+    - I
+    - Y
+    - I
+    - A
+    - S
+    - O
+    - G
+    - U
+    - H
+    - R
+  - Size: 10
+    Row:
+    - N
+    - Y
+    - X
+    - M
+    - A
+    - P
+    - Q
+    - S
+    - V
+    - H
+  - Size: 10
+    Row:
+    - G
+    - I
+    - W
+    - T
+    - I
+    - J
+    - L
+    - U
+    - B
+    - I
+  - Size: 10
+    Row:
+    - J
+    - P
+    - W
+    - G
+    - J
+    - C
+    - K
+    - S
+    - N
+    - I
+  - Size: 10
+    Row:
+    - I
+    - Q
+    - S
+    - S
+    - S
+    - Z
+    - J
+    - Y
+    - Y
+    - H
+  - Size: 10
+    Row:
+    - G
+    - R
+    - I
+    - U
+    - J
+    - A
+    - B
+    - A
+    - X
+    - R
+  - Size: 10
+    Row:
+    - E
+    - K
+    - P
+    - O
+    - E
+    - C
+    - U
+    - Z
+    - Q
+    - P
+  SearchWords:
+  - Word: SELERONI
+  - Word: SELIN
+  - Word: EMINE
+  - Word: AVAR
+  - Word: SEYLIN
+  - Word: SEL

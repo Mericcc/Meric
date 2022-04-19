@@ -1,0 +1,362 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e72fec5b0e7151448298f8180294501, type: 3}
+  m_Name: Countries2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 240
+  Columns: 17
+  Rows: 17
+  Board:
+  - Size: 17
+    Row:
+    - B
+    - M
+    - A
+    - R
+    - O
+    - C
+    - C
+    - O
+    - Z
+    - X
+    - F
+    - F
+    - E
+    - T
+    - Q
+    - E
+    - D
+  - Size: 17
+    Row:
+    - H
+    - Z
+    - I
+    - W
+    - A
+    - P
+    - H
+    - D
+    - T
+    - N
+    - T
+    - D
+    - L
+    - K
+    - Z
+    - N
+    - Q
+  - Size: 17
+    Row:
+    - U
+    - Q
+    - L
+    - M
+    - U
+    - M
+    - G
+    - W
+    - H
+    - K
+    - C
+    - P
+    - J
+    - Y
+    - A
+    - S
+    - R
+  - Size: 17
+    Row:
+    - E
+    - W
+    - Y
+    - Q
+    - O
+    - O
+    - L
+    - A
+    - I
+    - P
+    - E
+    - D
+    - W
+    - L
+    - N
+    - I
+    - B
+  - Size: 17
+    Row:
+    - G
+    - N
+    - L
+    - L
+    - E
+    - Y
+    - I
+    - K
+    - R
+    - U
+    - T
+    - L
+    - E
+    - W
+    - X
+    - P
+    - D
+  - Size: 17
+    Row:
+    - Y
+    - D
+    - I
+    - N
+    - U
+    - U
+    - S
+    - A
+    - Y
+    - X
+    - H
+    - R
+    - D
+    - Y
+    - E
+    - Q
+    - N
+  - Size: 17
+    Row:
+    - P
+    - L
+    - A
+    - Q
+    - V
+    - Q
+    - L
+    - T
+    - V
+    - I
+    - I
+    - A
+    - T
+    - L
+    - M
+    - N
+    - A
+  - Size: 17
+    Row:
+    - T
+    - L
+    - D
+    - V
+    - I
+    - Q
+    - Z
+    - N
+    - K
+    - I
+    - O
+    - D
+    - E
+    - W
+    - Z
+    - B
+    - L
+  - Size: 17
+    Row:
+    - L
+    - R
+    - C
+    - H
+    - I
+    - N
+    - A
+    - G
+    - Y
+    - P
+    - P
+    - T
+    - Z
+    - H
+    - K
+    - A
+    - N
+  - Size: 17
+    Row:
+    - J
+    - S
+    - G
+    - T
+    - H
+    - I
+    - A
+    - K
+    - U
+    - W
+    - I
+    - Q
+    - X
+    - F
+    - B
+    - N
+    - E
+  - Size: 17
+    Row:
+    - D
+    - G
+    - U
+    - F
+    - W
+    - G
+    - E
+    - C
+    - V
+    - J
+    - A
+    - N
+    - C
+    - C
+    - A
+    - P
+    - E
+  - Size: 17
+    Row:
+    - G
+    - W
+    - A
+    - A
+    - F
+    - A
+    - D
+    - F
+    - W
+    - H
+    - F
+    - W
+    - E
+    - H
+    - C
+    - B
+    - R
+  - Size: 17
+    Row:
+    - W
+    - T
+    - R
+    - W
+    - I
+    - V
+    - I
+    - M
+    - U
+    - M
+    - Y
+    - X
+    - K
+    - V
+    - I
+    - T
+    - G
+  - Size: 17
+    Row:
+    - E
+    - V
+    - F
+    - B
+    - R
+    - Z
+    - T
+    - R
+    - I
+    - J
+    - P
+    - Y
+    - W
+    - V
+    - A
+    - U
+    - T
+  - Size: 17
+    Row:
+    - H
+    - D
+    - A
+    - V
+    - C
+    - J
+    - M
+    - R
+    - F
+    - J
+    - V
+    - Y
+    - E
+    - P
+    - M
+    - C
+    - A
+  - Size: 17
+    Row:
+    - X
+    - R
+    - I
+    - I
+    - K
+    - O
+    - Y
+    - Z
+    - E
+    - D
+    - O
+    - H
+    - K
+    - R
+    - A
+    - R
+    - Z
+  - Size: 17
+    Row:
+    - A
+    - G
+    - E
+    - F
+    - R
+    - Q
+    - M
+    - Q
+    - W
+    - Z
+    - N
+    - A
+    - P
+    - A
+    - J
+    - J
+    - G
+  SearchWords:
+  - Found: 0
+    Word: ETHIOPIA
+  - Found: 0
+    Word: EGYPT
+  - Found: 0
+    Word: GREENLAND
+  - Found: 0
+    Word: ARABIA
+  - Found: 0
+    Word: MAROCCO
+  - Found: 0
+    Word: TURKIYE
+  - Found: 0
+    Word: IRELAND
+  - Found: 0
+    Word: JAMAICA
+  - Found: 0
+    Word: JAPAN
+  - Found: 0
+    Word: CHINA

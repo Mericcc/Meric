@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e72fec5b0e7151448298f8180294501, type: 3}
+  m_Name: Food2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - M
+    - C
+    - D
+    - O
+    - N
+    - A
+    - L
+    - D
+    - S
+    - S
+  - Size: 10
+    Row:
+    - T
+    - J
+    - H
+    - C
+    - X
+    - G
+    - O
+    - T
+    - U
+    - Y
+  - Size: 10
+    Row:
+    - X
+    - Z
+    - F
+    - T
+    - I
+    - V
+    - A
+    - U
+    - B
+    - Y
+  - Size: 10
+    Row:
+    - D
+    - G
+    - E
+    - N
+    - K
+    - R
+    - Y
+    - E
+    - W
+    - O
+  - Size: 10
+    Row:
+    - L
+    - P
+    - O
+    - L
+    - B
+    - Z
+    - G
+    - N
+    - A
+    - W
+  - Size: 10
+    Row:
+    - D
+    - B
+    - B
+    - U
+    - F
+    - A
+    - Y
+    - O
+    - Y
+    - C
+  - Size: 10
+    Row:
+    - Q
+    - Q
+    - C
+    - B
+    - A
+    - K
+    - J
+    - J
+    - U
+    - A
+  - Size: 10
+    Row:
+    - A
+    - K
+    - X
+    - A
+    - D
+    - P
+    - P
+    - W
+    - P
+    - J
+  - Size: 10
+    Row:
+    - S
+    - M
+    - Z
+    - K
+    - E
+    - O
+    - W
+    - Z
+    - Z
+    - I
+  - Size: 10
+    Row:
+    - K
+    - F
+    - C
+    - C
+    - W
+    - W
+    - S
+    - N
+    - K
+    - U
+  SearchWords:
+  - Found: 0
+    Word: MCDONALDS
+  - Found: 0
+    Word: KFC
+  - Found: 0
+    Word: SUBWAY
+  - Found: 0
+    Word: STARBUCKS

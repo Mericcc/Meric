@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d3f8837ddebd2b4ea036bb71c13ad35, type: 3}
+  m_Name: GameAlphabet
+  m_EditorClassIdentifier: 
+  AlphabetPlain:
+  - letter: A
+    image: {fileID: 21300000, guid: dde4d64ad4f971e4f830146cbf2578c2, type: 3}
+  - letter: B
+    image: {fileID: 21300000, guid: 8dd1e49c4a5cdf74987a1b1abdebd8d9, type: 3}
+  - letter: C
+    image: {fileID: 21300000, guid: ba118edb9d26cc245b72210988401e97, type: 3}
+  - letter: D
+    image: {fileID: 21300000, guid: cd3300cf114916b4891728a8c033cfa9, type: 3}
+  - letter: E
+    image: {fileID: 21300000, guid: 60d601aae66563c42bc7010d06e25e29, type: 3}
+  - letter: F
+    image: {fileID: 21300000, guid: ef82257ccd99d944c98c73ec5aa1f93d, type: 3}
+  - letter: G
+    image: {fileID: 21300000, guid: 45eb0a80b1c43084ebab970d881f1b22, type: 3}
+  - letter: H
+    image: {fileID: 21300000, guid: 6dba589b26b2d2c418273aa22c013d5e, type: 3}
+  - letter: I
+    image: {fileID: 21300000, guid: 8bac514701bcda74f8654255c9908aa7, type: 3}
+  - letter: J
+    image: {fileID: 21300000, guid: ada3d1e2f9ec2764f916b5e5bb0df2c5, type: 3}
+  - letter: K
+    image: {fileID: 21300000, guid: 99fbf53a25c821d4cb41aa774097763b, type: 3}
+  - letter: L
+    image: {fileID: 21300000, guid: 07b16ecb32f692b4a9f2e99efff3493d, type: 3}
+  - letter: M
+    image: {fileID: 21300000, guid: bbdf119bdec770d4bb1c51d3aba82aea, type: 3}
+  - letter: N
+    image: {fileID: 21300000, guid: 5ab42f03cd6ec194e8637bd7375951fd, type: 3}
+  - letter: O
+    image: {fileID: 21300000, guid: 758a7bb5181771f4b9fa0d298a77df99, type: 3}
+  - letter: P
+    image: {fileID: 21300000, guid: de723c21eaec86f47a6f9fa11b7a995f, type: 3}
+  - letter: Q
+    image: {fileID: 21300000, guid: 47dc136dc019c544786ab89fe4366122, type: 3}
+  - letter: R
+    image: {fileID: 21300000, guid: 41257ffe25354094d8435eedf0595eff, type: 3}
+  - letter: S
+    image: {fileID: 21300000, guid: 72556fd440b63164db0c8ccd6931b5a4, type: 3}
+  - letter: T
+    image: {fileID: 21300000, guid: a4af41815464d024889772be1e29680f, type: 3}
+  - letter: U
+    image: {fileID: 21300000, guid: d0906590c045ee04aa5c4d26b4129049, type: 3}
+  - letter: V
+    image: {fileID: 21300000, guid: c7131a4954412e04280ce79041dd0701, type: 3}
+  - letter: W
+    image: {fileID: 21300000, guid: db0fe236fd7ef7046ba928fedaa648fd, type: 3}
+  - letter: X
+    image: {fileID: 21300000, guid: d9f2d65c7fbb2e748ad1592c4096f6db, type: 3}
+  - letter: Y
+    image: {fileID: 21300000, guid: c6c7e1227d45cdb4e955d0817683686e, type: 3}
+  - letter: Z
+    image: {fileID: 21300000, guid: 23dcf4bc61ca1624bb0d668062bb1559, type: 3}
+  AlphabetNormal:
+  - letter: A
+    image: {fileID: 21300000, guid: 43aae81499701cd42abd9b050bb35ca1, type: 3}
+  - letter: B
+    image: {fileID: 21300000, guid: f65effa0dd6d5af4e93e136462f05946, type: 3}
+  - letter: C
+    image: {fileID: 21300000, guid: 35edcbdf1fce45142b7536c14518cf36, type: 3}
+  - letter: D
+    image: {fileID: 21300000, guid: 2ea4e9ecf8852b74591a7e28db6aaa2d, type: 3}
+  - letter: E
+    image: {fileID: 21300000, guid: 86b5201dcc457d14d81005d60faed688, type: 3}
+  - letter: F
+    image: {fileID: 21300000, guid: c2ec9f6af5eb7684696aec270459afa2, type: 3}
+  - letter: G
+    image: {fileID: 21300000, guid: 7f1547bcc6b94d4438c354a7769fd2ef, type: 3}
+  - letter: H
+    image: {fileID: 21300000, guid: f6cad40f1b63f874a96495bab49b30cd, type: 3}
+  - letter: I
+    image: {fileID: 21300000, guid: e84cd41e1a5ccd7439add68f53b04e62, type: 3}
+  - letter: J
+    image: {fileID: 21300000, guid: e0f2df20168090a40934a03491d49443, type: 3}
+  - letter: K
+    image: {fileID: 21300000, guid: 9c2674c1e2bbd63428def45393bede73, type: 3}
+  - letter: L
+    image: {fileID: 21300000, guid: 283713205325c5642aaf8e7ceb76cb33, type: 3}
+  - letter: M
+    image: {fileID: 21300000, guid: e7634c2231dc4ef4586b4c7b9351ff36, type: 3}
+  - letter: N
+    image: {fileID: 21300000, guid: 899b408cabc837440a4416109c5cceff, type: 3}
+  - letter: O
+    image: {fileID: 21300000, guid: ae78103ef63c30d4b92e80741d9d95f4, type: 3}
+  - letter: P
+    image: {fileID: 21300000, guid: 517d33de5618c0e41bcfce71f6db815e, type: 3}
+  - letter: Q
+    image: {fileID: 21300000, guid: 60ae5bda76903a643ae1a2cf774d6e35, type: 3}
+  - letter: R
+    image: {fileID: 21300000, guid: 065b8d39f11a45f458df755810d5263f, type: 3}
+  - letter: S
+    image: {fileID: 21300000, guid: d3e9424966f18684bbe77e97fe148fd0, type: 3}
+  - letter: T
+    image: {fileID: 21300000, guid: 08196f82fd7f77c4da828436edc9cba2, type: 3}
+  - letter: U
+    image: {fileID: 21300000, guid: d2bd4e010e7fc644da328038b5ec3e28, type: 3}
+  - letter: V
+    image: {fileID: 21300000, guid: 07c33c80e1bfa9f4c9a2efaa1c68feac, type: 3}
+  - letter: W
+    image: {fileID: 21300000, guid: ed83563df973f50499d10e6b9e1c0a48, type: 3}
+  - letter: X
+    image: {fileID: 21300000, guid: ac221decb9d7c5e4b8003e7f4d0e3957, type: 3}
+  - letter: Y
+    image: {fileID: 21300000, guid: b3be1fc03dd30a5408b2e435e4084b77, type: 3}
+  - letter: Z
+    image: {fileID: 21300000, guid: dbd6a5cc375511e429a09bcdd3324e71, type: 3}
+  AlphabetHighlighted:
+  - letter: A
+    image: {fileID: 21300000, guid: 1fb9ff412c7f5894abe44033f7bee0d1, type: 3}
+  - letter: B
+    image: {fileID: 21300000, guid: f3580691597d1b946833beffe69a885a, type: 3}
+  - letter: C
+    image: {fileID: 21300000, guid: 8d040044b4c920541810c36796c4d975, type: 3}
+  - letter: D
+    image: {fileID: 21300000, guid: 5320d7c98e36800408ff909e65c4eba3, type: 3}
+  - letter: E
+    image: {fileID: 21300000, guid: 29555350ad7a6534ea27cc4bd945cad9, type: 3}
+  - letter: F
+    image: {fileID: 21300000, guid: f0efc26b4cf357949a4bde7e009b5f3b, type: 3}
+  - letter: G
+    image: {fileID: 21300000, guid: e30b9372e8bdeb047979689a48ae9322, type: 3}
+  - letter: H
+    image: {fileID: 21300000, guid: bfbf0439010fb2240877beae7c7e4fc0, type: 3}
+  - letter: I
+    image: {fileID: 21300000, guid: 9abb62ea5dba4844dbad954e0cbd03b8, type: 3}
+  - letter: J
+    image: {fileID: 21300000, guid: 584b2e1b2347c924999b5084a13bf3a9, type: 3}
+  - letter: K
+    image: {fileID: 21300000, guid: bd326b3265091e0448f5dfd4a641c2eb, type: 3}
+  - letter: L
+    image: {fileID: 21300000, guid: 95aadfa32a80f744e89ad6b1f9d77937, type: 3}
+  - letter: M
+    image: {fileID: 21300000, guid: aebf8fd69b361174ba7f601a3ac56bff, type: 3}
+  - letter: N
+    image: {fileID: 21300000, guid: 54ed64f04e3588a4c8a4816dc9d725a0, type: 3}
+  - letter: O
+    image: {fileID: 21300000, guid: a42df9229f1cf0546b06104d871f8008, type: 3}
+  - letter: P
+    image: {fileID: 21300000, guid: 76a7a09d953a87343982cabc726cdd58, type: 3}
+  - letter: Q
+    image: {fileID: 21300000, guid: 16ec431c898a9ef4ca4e3a0074289e55, type: 3}
+  - letter: R
+    image: {fileID: 21300000, guid: f5fa11551515e774ba5a15ade31e3673, type: 3}
+  - letter: S
+    image: {fileID: 21300000, guid: 77cfc1f6b580e954abf1de4d056bc465, type: 3}
+  - letter: T
+    image: {fileID: 21300000, guid: b473693b4fcea4d4d820f883ac0f5f39, type: 3}
+  - letter: U
+    image: {fileID: 21300000, guid: 698a34704bbfca24e919f72d4fb456d6, type: 3}
+  - letter: V
+    image: {fileID: 21300000, guid: 74e08f5b49cd05b4496ea3f430bac40d, type: 3}
+  - letter: W
+    image: {fileID: 21300000, guid: 6c69670ba44f50348a714fa5fc16db84, type: 3}
+  - letter: X
+    image: {fileID: 21300000, guid: b74f89fc2b3ca4d49b7da5365de0a8d1, type: 3}
+  - letter: Y
+    image: {fileID: 21300000, guid: 928cd7a892a6793458a4574e1fedb06a, type: 3}
+  - letter: Z
+    image: {fileID: 21300000, guid: e8713c1d048df9143884e74d1484c5bd, type: 3}
+  AlphabetWrong:
+  - letter: A
+    image: {fileID: 21300000, guid: 23afa14df281aef4bb31dbc9afc7b48c, type: 3}
+  - letter: B
+    image: {fileID: 21300000, guid: fff04b9300e1579448a542c750c87ceb, type: 3}
+  - letter: C
+    image: {fileID: 21300000, guid: 26ca604d618ab3d49a0d63edecbcc9ac, type: 3}
+  - letter: D
+    image: {fileID: 21300000, guid: 19be3150a7f648348b3462ad9fb4793c, type: 3}
+  - letter: E
+    image: {fileID: 21300000, guid: 926afd21d5a1b8b42bedbff18a214b6d, type: 3}
+  - letter: F
+    image: {fileID: 21300000, guid: ddff8c741549e5d4399b3083833da29b, type: 3}
+  - letter: G
+    image: {fileID: 21300000, guid: 0a9629b8a17bae943b660c613ada615f, type: 3}
+  - letter: H
+    image: {fileID: 21300000, guid: 3f839c7690607fa47a3d535ac6dfa983, type: 3}
+  - letter: I
+    image: {fileID: 21300000, guid: 2a1559876debfac4db18622307762450, type: 3}
+  - letter: J
+    image: {fileID: 21300000, guid: 1c23c045a0ec1eb4d98460438059e825, type: 3}
+  - letter: K
+    image: {fileID: 21300000, guid: a4d0f4cf38b20804d90f0de56a728582, type: 3}
+  - letter: L
+    image: {fileID: 21300000, guid: 4a37b4f7a77397346b663d56a062d9ff, type: 3}
+  - letter: M
+    image: {fileID: 21300000, guid: c519c4de34274d2469ce80ef2ad98783, type: 3}
+  - letter: N
+    image: {fileID: 21300000, guid: d418b0a27aafb194280582dc5afa8ac7, type: 3}
+  - letter: O
+    image: {fileID: 21300000, guid: 60baeff41a758964894461505a6a18a7, type: 3}
+  - letter: P
+    image: {fileID: 21300000, guid: 6442ae873b81f954793f876db301fab1, type: 3}
+  - letter: Q
+    image: {fileID: 21300000, guid: 7c7568651ba791444bcbf14524e7ab3a, type: 3}
+  - letter: R
+    image: {fileID: 21300000, guid: 1fb384a0d0f27cd41b5982f5f463e562, type: 3}
+  - letter: S
+    image: {fileID: 21300000, guid: 9b11830273d721a438deeca846d55ef0, type: 3}
+  - letter: T
+    image: {fileID: 21300000, guid: 80efb346fd6d1ee4eb8e8b4a13af3aba, type: 3}
+  - letter: U
+    image: {fileID: 21300000, guid: b1aefaf7e607f424089df07bba83d745, type: 3}
+  - letter: V
+    image: {fileID: 21300000, guid: 4341624d7f07bbc4ba23372bdaadbdaa, type: 3}
+  - letter: W
+    image: {fileID: 21300000, guid: f0d66eb34dd091840a879cf0d6046372, type: 3}
+  - letter: X
+    image: {fileID: 21300000, guid: e2aeb374bb3ed0e4e9cf063a963c7eaa, type: 3}
+  - letter: Y
+    image: {fileID: 21300000, guid: 87c77e93e896997429a3681058e17d6f, type: 3}
+  - letter: Z
+    image: {fileID: 21300000, guid: 49167627ac1426649b95db568e749f72, type: 3}
