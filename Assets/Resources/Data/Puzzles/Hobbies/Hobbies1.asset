@@ -12,279 +12,167 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e72fec5b0e7151448298f8180294501, type: 3}
   m_Name: Hobbies1
   m_EditorClassIdentifier: 
-  timeInSeconds: 120
-  Columns: 15
-  Rows: 15
+  timeInSeconds: 150
+  Columns: 11
+  Rows: 11
   Board:
-  - Size: 15
+  - Size: 11
     Row:
     - S
-    - Q
-    - Y
+    - D
+    - S
     - H
-    - Y
-    - M
+    - S
+    - P
+    - D
+    - E
+    - O
     - J
     - G
-    - M
-    - W
-    - Q
-    - M
-    - B
-    - U
-    - C
-  - Size: 15
+  - Size: 11
     Row:
-    - M
+    - H
     - O
-    - N
+    - C
+    - K
+    - E
+    - Y
+    - G
+    - P
+    - C
+    - R
+    - U
+  - Size: 11
+    Row:
+    - L
+    - Y
+    - C
+    - I
+    - R
+    - C
+    - S
+    - W
+    - I
+    - K
+    - I
+  - Size: 11
+    Row:
+    - E
+    - F
+    - B
+    - C
+    - H
     - E
     - S
-    - G
-    - U
-    - I
-    - T
+    - S
     - A
-    - R
+    - V
+    - T
+  - Size: 11
+    Row:
+    - E
     - Z
     - R
-    - H
-    - M
-  - Size: 15
-    Row:
-    - D
-    - C
-    - C
-    - O
-    - K
-    - P
-    - X
-    - L
-    - N
-    - T
-    - B
     - Y
     - E
-    - N
-    - W
-  - Size: 15
+    - Y
+    - A
+    - M
+    - C
+    - A
+    - A
+  - Size: 11
     Row:
     - Q
-    - H
-    - W
-    - C
-    - B
+    - N
     - X
-    - J
-    - I
-    - T
-    - T
-    - L
-    - S
-    - F
-    - Z
-    - T
-  - Size: 15
-    Row:
-    - V
-    - O
-    - V
-    - M
-    - E
-    - L
-    - S
-    - W
+    - C
+    - A
     - R
-    - E
+    - D
     - S
     - K
-    - F
+    - X
+    - R
+  - Size: 11
+    Row:
+    - P
+    - M
+    - J
+    - U
+    - T
+    - M
+    - O
+    - T
+    - O
+    - S
+    - A
+  - Size: 11
+    Row:
+    - C
+    - H
+    - I
+    - L
+    - L
+    - I
+    - N
     - G
-    - D
-  - Size: 15
+    - W
+    - F
+    - J
+  - Size: 11
     Row:
     - A
     - Z
-    - G
-    - J
-    - E
-    - R
-    - G
-    - E
-    - E
-    - E
-    - H
-    - J
-    - Q
-    - W
-    - U
-  - Size: 15
-    Row:
-    - Q
-    - V
-    - N
-    - L
-    - S
-    - V
-    - X
-    - R
-    - Y
-    - Q
-    - G
-    - L
-    - W
-    - A
+    - K
     - M
-  - Size: 15
-    Row:
+    - R
     - F
-    - U
-    - N
-    - I
-    - J
-    - L
-    - V
-    - G
-    - M
-    - Y
-    - E
     - K
-    - C
-    - O
-    - H
-  - Size: 15
-    Row:
-    - S
-    - D
-    - R
-    - A
-    - C
-    - G
-    - M
-    - E
-    - N
-    - P
-    - T
-    - Y
-    - E
-    - M
-    - D
-  - Size: 15
-    Row:
-    - X
-    - R
-    - X
-    - R
-    - E
-    - D
-    - T
-    - E
     - U
-    - I
-    - G
-    - N
-    - E
-    - Q
-    - L
-  - Size: 15
-    Row:
-    - Y
-    - J
-    - L
-    - J
-    - K
-    - D
-    - J
     - W
-    - H
-    - B
-    - M
-    - J
-    - P
-    - G
-    - D
-  - Size: 15
-    Row:
-    - K
+    - X
     - F
-    - T
-    - H
-    - Y
-    - E
-    - O
-    - I
-    - T
-    - V
-    - T
-    - M
-    - H
-    - D
-    - E
-  - Size: 15
+  - Size: 11
     Row:
     - M
     - A
-    - I
-    - J
-    - H
-    - E
     - Q
-    - F
-    - O
-    - F
-    - O
-    - E
-    - I
     - G
-    - B
-  - Size: 15
-    Row:
-    - D
-    - P
-    - Q
-    - L
+    - N
+    - I
+    - M
+    - M
+    - I
     - W
-    - L
-    - G
-    - G
     - S
+  - Size: 11
+    Row:
     - Z
-    - C
     - X
-    - M
+    - P
+    - X
+    - A
+    - P
+    - Y
+    - A
+    - K
     - W
-    - T
-  - Size: 15
-    Row:
-    - Q
     - M
-    - F
-    - G
-    - N
-    - I
-    - L
-    - L
-    - I
-    - H
-    - C
-    - Q
-    - F
-    - T
-    - S
   SearchWords:
-  - Found: 0
+  - Found: 1
     Word: SOCCER
-  - Found: 0
-    Word: HOCKEY
-  - Found: 0
+  - Found: 1
     Word: CHESS
-  - Found: 0
+  - Found: 1
     Word: SWIMMING
-  - Found: 0
+  - Found: 1
     Word: CHILLING
-  - Found: 0
+  - Found: 1
     Word: CARDS
-  - Found: 0
+  - Found: 1
     Word: GUITAR
-  - Found: 0
+  - Found: 1
     Word: TV
+  - Found: 1
+    Word: HOCKEY

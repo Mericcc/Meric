@@ -12,314 +12,194 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e72fec5b0e7151448298f8180294501, type: 3}
   m_Name: Work2
   m_EditorClassIdentifier: 
-  timeInSeconds: 180
-  Columns: 16
-  Rows: 16
+  timeInSeconds: 190
+  Columns: 12
+  Rows: 12
   Board:
-  - Size: 16
+  - Size: 12
     Row:
-    - M
-    - I
-    - W
-    - U
+    - A
     - M
     - A
-    - J
-    - Q
-    - D
-    - H
-    - V
-    - D
-    - E
-    - W
-    - B
-    - Q
-  - Size: 16
-    Row:
-    - C
-    - U
+    - Z
+    - O
     - N
-    - Y
-    - Z
-    - S
-    - R
-    - P
-    - D
-    - Z
-    - K
-    - L
-    - S
-    - Z
     - W
-    - C
-  - Size: 16
-    Row:
-    - D
-    - Z
-    - B
-    - D
-    - T
-    - U
-    - A
-    - O
-    - L
-    - Q
-    - O
     - V
-    - P
+    - J
+    - S
     - T
-    - I
-    - M
-  - Size: 16
+    - E
+  - Size: 12
     Row:
-    - O
+    - V
+    - B
+    - Z
+    - V
+    - S
+    - T
+    - A
+    - W
+    - U
+    - T
+    - R
+    - M
+  - Size: 12
+    Row:
+    - E
     - P
-    - I
-    - P
+    - Z
+    - R
+    - S
+    - J
     - K
     - N
-    - O
+    - W
+    - W
     - E
-    - S
-    - Y
-    - P
+    - C
+  - Size: 12
+    Row:
+    - B
+    - N
+    - J
     - Z
-    - Y
-    - A
-    - B
-    - E
-  - Size: 16
-    Row:
-    - N
-    - G
-    - K
-    - Q
     - J
-    - E
-    - V
-    - X
-    - D
-    - W
     - O
-    - P
+    - E
     - T
-    - R
-    - M
-    - C
-  - Size: 16
+    - T
+    - A
+    - N
+    - D
+  - Size: 12
     Row:
     - A
-    - F
     - U
-    - P
-    - N
+    - V
+    - D
+    - A
     - X
-    - S
-    - N
-    - R
+    - W
+    - F
     - E
-    - N
-    - E
-    - H
-    - L
-    - U
-    - T
-  - Size: 16
+    - D
+    - D
+    - X
+  - Size: 12
     Row:
-    - L
-    - G
-    - A
-    - I
-    - H
-    - P
-    - E
-    - E
-    - U
+    - Y
     - Z
-    - U
-    - K
     - P
+    - E
+    - P
+    - E
+    - O
+    - D
+    - M
+    - B
+    - Y
     - Q
-    - Q
+  - Size: 12
+    Row:
+    - J
+    - I
+    - D
+    - R
+    - A
+    - S
+    - T
+    - Y
+    - K
+    - U
+    - O
+    - F
+  - Size: 12
+    Row:
+    - J
     - X
-  - Size: 16
-    Row:
-    - D
-    - O
-    - R
-    - Y
-    - P
-    - R
-    - P
+    - E
     - I
-    - A
     - O
-    - W
-    - E
-    - B
-    - A
-    - Y
-    - J
-  - Size: 16
-    Row:
-    - S
-    - E
-    - M
-    - W
-    - T
-    - E
-    - U
-    - Y
-    - B
-    - M
-    - A
-    - G
-    - P
-    - M
-    - A
-    - I
-  - Size: 16
-    Row:
-    - G
-    - I
-    - Y
-    - R
-    - K
-    - S
-    - V
-    - O
-    - C
-    - P
-    - Y
-    - M
-    - L
-    - A
-    - F
-    - V
-  - Size: 16
-    Row:
-    - J
-    - D
-    - T
-    - E
-    - R
-    - S
-    - U
     - N
-    - R
-    - W
-    - P
-    - Y
-    - L
-    - Z
     - I
-    - V
-  - Size: 16
-    Row:
-    - R
     - E
-    - E
-    - J
-    - S
+    - T
     - U
-    - R
-    - T
     - L
-    - T
-    - F
-    - M
-    - K
-    - O
-    - S
-    - I
-  - Size: 16
+    - N
+  - Size: 12
     Row:
+    - X
+    - S
+    - V
+    - R
+    - F
+    - Q
+    - N
+    - T
+    - R
     - H
-    - E
-    - J
-    - T
-    - C
-    - D
-    - O
-    - J
-    - F
-    - B
-    - R
-    - V
-    - U
-    - N
-    - G
-    - T
-  - Size: 16
+    - H
+    - H
+  - Size: 12
     Row:
-    - M
+    - S
     - I
     - C
-    - R
-    - O
     - S
-    - O
-    - F
-    - T
-    - X
-    - S
-    - M
-    - E
-    - X
-    - P
-    - L
-  - Size: 16
-    Row:
-    - S
-    - G
+    - H
+    - D
+    - D
+    - N
     - U
-    - B
-    - C
+    - S
     - F
     - N
-    - E
-    - X
-    - F
-    - P
-    - Q
-    - I
-    - H
-    - O
-    - I
-  - Size: 16
+  - Size: 12
     Row:
-    - F
-    - D
-    - U
-    - G
-    - Q
-    - E
+    - L
+    - I
     - T
-    - S
-    - T
-    - W
-    - W
-    - D
-    - X
-    - W
-    - Z
+    - L
+    - I
     - H
+    - R
+    - A
+    - P
+    - I
+    - U
+    - W
+  - Size: 12
+    Row:
+    - M
+    - C
+    - D
+    - O
+    - N
+    - A
+    - L
+    - D
+    - S
+    - E
+    - V
+    - N
   SearchWords:
-  - Found: 0
+  - Found: 1
     Word: MICROSOFT
-  - Found: 0
+  - Found: 1
     Word: HILTI
-  - Found: 0
+  - Found: 1
     Word: EMC
-  - Found: 0
+  - Found: 1
     Word: AMAZON
-  - Found: 0
+  - Found: 1
     Word: EBAY
-  - Found: 0
+  - Found: 1
     Word: TRENDYOL
-  - Found: 0
+  - Found: 1
     Word: MCDONALDS
-  - Found: 0
+  - Found: 1
     Word: NUSRET
-  - Found: 0
+  - Found: 1
     Word: SUNEXPRESS

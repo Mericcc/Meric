@@ -13,350 +13,220 @@ MonoBehaviour:
   m_Name: Countries2
   m_EditorClassIdentifier: 
   timeInSeconds: 240
-  Columns: 17
-  Rows: 17
+  Columns: 13
+  Rows: 13
   Board:
-  - Size: 17
+  - Size: 13
     Row:
-    - B
+    - E
+    - G
+    - Y
+    - P
+    - T
+    - I
+    - F
+    - J
+    - N
+    - J
+    - P
+    - T
+    - T
+  - Size: 13
+    Row:
+    - K
+    - R
+    - H
+    - C
+    - J
+    - A
     - M
+    - A
+    - I
+    - C
+    - A
+    - A
+    - U
+  - Size: 13
+    Row:
+    - H
+    - E
+    - R
+    - J
+    - Q
+    - M
+    - A
+    - P
+    - W
+    - T
+    - K
+    - X
+    - R
+  - Size: 13
+    Row:
+    - K
+    - E
+    - M
+    - J
+    - K
+    - T
+    - P
     - A
     - R
-    - O
-    - C
-    - C
-    - O
     - Z
-    - X
-    - F
-    - F
-    - E
-    - T
-    - Q
-    - E
-    - D
-  - Size: 17
-    Row:
-    - H
-    - Z
-    - I
-    - W
-    - A
-    - P
-    - H
-    - D
-    - T
-    - N
-    - T
-    - D
-    - L
-    - K
-    - Z
-    - N
-    - Q
-  - Size: 17
-    Row:
     - U
-    - Q
-    - L
-    - M
-    - U
-    - M
-    - G
-    - W
-    - H
+    - N
     - K
-    - C
-    - P
-    - J
-    - Y
+  - Size: 13
+    Row:
     - A
+    - N
+    - P
+    - W
     - S
-    - R
-  - Size: 17
-    Row:
+    - I
+    - D
+    - N
+    - A
+    - L
     - E
-    - W
+    - R
+    - I
+  - Size: 13
+    Row:
+    - M
+    - L
     - Y
-    - Q
-    - O
-    - O
+    - U
+    - I
+    - L
+    - R
+    - C
+    - B
+    - R
+    - U
+    - N
+    - Y
+  - Size: 13
+    Row:
     - L
     - A
-    - I
-    - P
-    - E
-    - D
-    - W
-    - L
-    - N
-    - I
-    - B
-  - Size: 17
-    Row:
-    - G
-    - N
-    - L
-    - L
-    - E
-    - Y
-    - I
-    - K
     - R
-    - U
-    - T
-    - L
-    - E
-    - W
-    - X
-    - P
-    - D
-  - Size: 17
-    Row:
-    - Y
-    - D
+    - A
+    - B
     - I
+    - A
+    - Q
+    - D
+    - W
+    - P
+    - S
+    - E
+  - Size: 13
+    Row:
+    - T
     - N
+    - R
+    - J
+    - F
     - U
+    - U
+    - J
+    - R
+    - T
+    - C
     - U
     - S
-    - A
-    - Y
-    - X
-    - H
-    - R
-    - D
-    - Y
-    - E
-    - Q
-    - N
-  - Size: 17
+  - Size: 13
     Row:
-    - P
-    - L
-    - A
-    - Q
-    - V
-    - Q
-    - L
-    - T
-    - V
     - I
-    - I
-    - A
-    - T
-    - L
-    - M
-    - N
-    - A
-  - Size: 17
-    Row:
-    - T
-    - L
     - D
-    - V
-    - I
-    - Q
-    - Z
-    - N
-    - K
-    - I
+    - A
     - O
     - D
     - E
-    - W
-    - Z
-    - B
-    - L
-  - Size: 17
-    Row:
-    - L
-    - R
     - C
     - H
-    - I
-    - N
-    - A
-    - G
-    - Y
-    - P
-    - P
-    - T
-    - Z
-    - H
-    - K
-    - A
-    - N
-  - Size: 17
-    Row:
+    - W
     - J
+    - H
+    - E
+    - W
+  - Size: 13
+    Row:
+    - C
+    - T
+    - O
+    - L
+    - C
+    - B
+    - Z
+    - G
+    - G
+    - U
+    - I
     - S
-    - G
-    - T
-    - H
-    - I
-    - A
-    - K
-    - U
-    - W
-    - I
     - Q
-    - X
-    - F
-    - B
-    - N
-    - E
-  - Size: 17
+  - Size: 13
     Row:
-    - D
-    - G
-    - U
-    - F
-    - W
-    - G
-    - E
-    - C
-    - V
-    - J
-    - A
-    - N
-    - C
-    - C
-    - A
-    - P
-    - E
-  - Size: 17
-    Row:
-    - G
-    - W
-    - A
-    - A
-    - F
-    - A
-    - D
-    - F
-    - W
-    - H
-    - F
-    - W
-    - E
-    - H
-    - C
-    - B
-    - R
-  - Size: 17
-    Row:
-    - W
-    - T
-    - R
-    - W
-    - I
-    - V
-    - I
-    - M
-    - U
-    - M
-    - Y
-    - X
-    - K
-    - V
-    - I
-    - T
-    - G
-  - Size: 17
-    Row:
-    - E
-    - V
-    - F
-    - B
-    - R
-    - Z
-    - T
-    - R
-    - I
-    - J
-    - P
-    - Y
-    - W
-    - V
-    - A
-    - U
-    - T
-  - Size: 17
-    Row:
-    - H
-    - D
-    - A
-    - V
-    - C
-    - J
-    - M
-    - R
-    - F
-    - J
-    - V
-    - Y
-    - E
-    - P
-    - M
-    - C
-    - A
-  - Size: 17
-    Row:
-    - X
-    - R
-    - I
-    - I
-    - K
     - O
-    - Y
-    - Z
-    - E
-    - D
-    - O
-    - H
-    - K
-    - R
-    - A
-    - R
-    - Z
-  - Size: 17
-    Row:
-    - A
-    - G
-    - E
-    - F
-    - R
-    - Q
-    - M
-    - Q
     - W
-    - Z
+    - I
+    - H
+    - M
+    - C
+    - K
+    - Q
+    - P
+    - I
     - N
-    - A
+    - O
+    - B
+  - Size: 13
+    Row:
+    - E
+    - X
+    - W
+    - F
+    - E
+    - S
+    - O
+    - M
+    - T
     - P
     - A
-    - J
-    - J
     - G
+    - W
+  - Size: 13
+    Row:
+    - J
+    - W
+    - C
+    - B
+    - F
+    - Y
+    - Z
+    - X
+    - M
+    - D
+    - G
+    - A
+    - A
   SearchWords:
-  - Found: 0
-    Word: ETHIOPIA
-  - Found: 0
+  - Found: 1
     Word: EGYPT
-  - Found: 0
+  - Found: 1
     Word: GREENLAND
-  - Found: 0
+  - Found: 1
     Word: ARABIA
-  - Found: 0
+  - Found: 1
     Word: MAROCCO
-  - Found: 0
+  - Found: 1
     Word: TURKIYE
-  - Found: 0
+  - Found: 1
     Word: IRELAND
-  - Found: 0
+  - Found: 1
     Word: JAMAICA
-  - Found: 0
+  - Found: 1
     Word: JAPAN
-  - Found: 0
+  - Found: 1
     Word: CHINA

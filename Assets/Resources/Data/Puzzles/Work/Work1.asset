@@ -12,314 +12,194 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e72fec5b0e7151448298f8180294501, type: 3}
   m_Name: Work1
   m_EditorClassIdentifier: 
-  timeInSeconds: 180
-  Columns: 16
-  Rows: 16
+  timeInSeconds: 190
+  Columns: 12
+  Rows: 12
   Board:
-  - Size: 16
+  - Size: 12
     Row:
+    - P
+    - O
+    - M
+    - P
+    - U
+    - T
+    - A
+    - V
+    - A
+    - F
+    - P
+    - S
+  - Size: 12
+    Row:
+    - X
+    - R
+    - O
+    - E
+    - N
+    - N
+    - S
+    - V
+    - R
+    - B
+    - R
+    - E
+  - Size: 12
+    Row:
+    - V
+    - S
+    - O
+    - I
+    - C
+    - U
+    - F
+    - O
+    - T
+    - Q
+    - U
+    - C
+  - Size: 12
+    Row:
+    - A
+    - Z
+    - I
+    - G
+    - K
+    - H
+    - V
+    - R
+    - I
+    - V
+    - C
+    - U
+  - Size: 12
+    Row:
+    - C
+    - F
+    - I
     - L
+    - R
+    - Q
+    - A
+    - A
+    - S
+    - L
+    - Y
+    - R
+  - Size: 12
+    Row:
+    - T
+    - L
+    - W
+    - U
+    - R
+    - A
+    - P
+    - N
+    - T
+    - B
+    - T
+    - I
+  - Size: 12
+    Row:
+    - O
+    - G
+    - J
+    - D
+    - Y
+    - E
+    - M
+    - C
+    - I
+    - X
+    - U
+    - T
+  - Size: 12
+    Row:
+    - R
+    - N
+    - C
+    - I
+    - Z
+    - Q
+    - S
+    - M
+    - T
+    - C
+    - E
+    - Y
+  - Size: 12
+    Row:
+    - K
+    - K
+    - K
+    - K
+    - L
+    - Y
     - Y
     - W
-    - C
-    - X
-    - R
     - E
     - H
-    - C
-    - A
-    - E
-    - T
-    - T
-    - R
-    - O
-    - Z
-  - Size: 16
-    Row:
-    - Z
-    - Z
-    - W
-    - A
-    - X
-    - Q
-    - L
-    - E
-    - N
-    - A
-    - S
-    - X
-    - W
     - D
-    - U
-    - M
-  - Size: 16
-    Row:
-    - O
-    - Q
     - Z
-    - X
-    - T
-    - K
-    - Y
-    - F
-    - P
-    - W
-    - G
-    - R
-    - H
-    - C
-    - E
+  - Size: 12
+    Row:
     - B
-  - Size: 16
-    Row:
-    - Z
-    - P
+    - G
+    - S
+    - C
     - R
     - O
-    - G
-    - R
-    - A
-    - M
-    - M
+    - T
+    - C
     - E
     - R
     - I
-    - F
-    - C
-    - Z
-    - B
-  - Size: 16
+    - D
+  - Size: 12
     Row:
-    - G
-    - L
-    - J
-    - L
-    - Z
-    - R
-    - N
-    - J
+    - T
     - E
-    - G
+    - A
+    - C
     - H
-    - P
+    - E
+    - R
+    - K
+    - O
+    - V
+    - D
+    - T
+  - Size: 12
+    Row:
+    - D
+    - O
+    - C
+    - T
+    - O
+    - R
+    - D
+    - C
     - H
-    - L
-    - B
-    - A
-  - Size: 16
-    Row:
-    - R
-    - V
-    - I
-    - F
-    - P
-    - U
-    - Y
-    - Z
-    - P
-    - A
-    - O
-    - A
-    - G
-    - F
-    - U
-    - S
-  - Size: 16
-    Row:
-    - Y
-    - D
-    - B
-    - Q
-    - R
-    - H
-    - D
-    - N
-    - I
-    - C
-    - N
-    - S
-    - Q
-    - E
-    - B
-    - D
-  - Size: 16
-    Row:
-    - D
-    - Q
-    - V
-    - R
-    - O
-    - T
-    - C
-    - E
-    - R
-    - I
-    - D
-    - T
-    - X
-    - K
-    - W
-    - O
-  - Size: 16
-    Row:
-    - F
-    - E
-    - J
-    - K
-    - K
-    - S
-    - K
-    - L
-    - C
-    - J
-    - C
-    - P
-    - V
-    - H
-    - Z
-    - C
-  - Size: 16
-    Row:
-    - C
-    - D
-    - T
-    - X
-    - X
-    - A
-    - P
-    - V
-    - I
-    - R
-    - C
-    - Z
-    - F
-    - U
-    - H
-    - T
-  - Size: 16
-    Row:
-    - G
-    - S
-    - E
-    - C
-    - U
-    - R
-    - I
-    - T
-    - Y
-    - R
-    - R
-    - E
-    - U
     - E
     - F
-    - O
-  - Size: 16
-    Row:
-    - V
-    - G
-    - Q
-    - G
-    - S
-    - D
-    - R
-    - T
-    - V
-    - O
-    - F
-    - V
-    - F
-    - Y
-    - F
-    - R
-  - Size: 16
-    Row:
-    - Z
-    - K
-    - M
-    - M
-    - C
-    - C
-    - C
-    - O
-    - A
-    - Q
-    - F
-    - R
-    - O
-    - I
-    - O
-    - E
-  - Size: 16
-    Row:
-    - Q
-    - T
-    - S
-    - I
-    - T
-    - R
-    - A
-    - L
-    - N
     - P
-    - D
-    - Z
-    - U
-    - N
-    - T
-    - V
-  - Size: 16
-    Row:
-    - K
-    - C
-    - R
-    - P
-    - M
-    - Z
-    - T
-    - R
-    - O
-    - T
-    - A
-    - U
-    - S
-    - T
-    - C
-    - L
-  - Size: 16
-    Row:
-    - D
-    - P
-    - U
-    - V
-    - Z
-    - L
-    - J
-    - Z
-    - D
-    - B
-    - T
-    - R
-    - O
-    - T
-    - C
-    - A
   SearchWords:
-  - Found: 0
+  - Found: 1
     Word: PROGRAMMER
-  - Found: 0
+  - Found: 1
     Word: DOCTOR
-  - Found: 0
+  - Found: 1
     Word: CHEF
-  - Found: 0
+  - Found: 1
     Word: SECURITY
-  - Found: 0
+  - Found: 1
     Word: MECHANIC
-  - Found: 0
+  - Found: 1
     Word: ACTOR
-  - Found: 0
+  - Found: 1
     Word: ARTIST
-  - Found: 0
+  - Found: 1
     Word: TEACHER
-  - Found: 0
+  - Found: 1
     Word: DIRECTOR
